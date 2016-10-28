@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk Server Application", "BizTalk Server Application\BizTalk Server Application.btproj", "{83A91A23-7219-480D-82C0-60987AF92F6B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalk BPEL Import Project", "BizTalk BPEL Import Project\BizTalk BPEL Import Project.btproj", "{20FB805D-F2CA-43E6-A45F-9CB1BFFF2C6A}"
 EndProject
 Global
@@ -13,12 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83A91A23-7219-480D-82C0-60987AF92F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83A91A23-7219-480D-82C0-60987AF92F6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83A91A23-7219-480D-82C0-60987AF92F6B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{83A91A23-7219-480D-82C0-60987AF92F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83A91A23-7219-480D-82C0-60987AF92F6B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83A91A23-7219-480D-82C0-60987AF92F6B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{20FB805D-F2CA-43E6-A45F-9CB1BFFF2C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{20FB805D-F2CA-43E6-A45F-9CB1BFFF2C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20FB805D-F2CA-43E6-A45F-9CB1BFFF2C6A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
